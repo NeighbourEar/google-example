@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android-Studio-Project\\AndroidSimple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\music.xml",
+        "source": "D:\\Android-Studio-Project\\AndroidSimple\\app\\src\\main\\res\\menu\\music.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio-Project\\AndroidSimple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android-Studio-Project\\AndroidSimple\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio-Project\\AndroidSimple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scan_bank_card.xml",
+        "source": "D:\\Android-Studio-Project\\AndroidSimple\\app\\src\\main\\res\\menu\\scan_bank_card.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio-Project\\AndroidSimple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\custom_view.xml",
+        "source": "D:\\Android-Studio-Project\\AndroidSimple\\app\\src\\main\\res\\menu\\custom_view.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio-Project\\AndroidSimple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\thread.xml",
+        "source": "D:\\Android-Studio-Project\\AndroidSimple\\app\\src\\main\\res\\menu\\thread.xml"
+    }
+]

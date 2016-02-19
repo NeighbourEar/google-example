@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android-Studio-Project\AndroidSimple\app\libs\card.io.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6871955c5f3c7b8488036dd8308225d57b7dabee">
+        <dex dex="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\pre-dexed\debug\card.io_971e4def3aff21c496cdbd9c5c225e9e683c46d5.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_aa16b3cf885393ef74ba8407c65bcf20627dd05b.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_7f775c756fa976c6bd8a0ef9b10406f1d3adfdb5.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_5306e2b185dafe2c86a68cf01d9d072013742433.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android-Studio-Project\AndroidSimple\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_67a8b2841e198828da7f5d6bc404e84544498cb9.jar" />
+    </item>
+
+</items>
